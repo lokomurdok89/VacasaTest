@@ -13,8 +13,9 @@ Instructions
 Requests will be sent to your service in the 'q' parameter.
 Some requests are structured as questions with free-text answers while others will require some analysis to return a correct response.
 Responses should be plain text.
-## :metal Puzzle 1: Simple addition.
-### :rocket Puzzle 2: Count the number of words-consonants-vowels. Y counts as a consonant.
+
+## :metal: Puzzle 1: Simple addition.
+## :rocket: Puzzle 2: Count the number of words-consonants-vowels. Y counts as a consonant.
 
 If you like brain teasers, try to figure out what is going on in these bonus puzzles.
 ## :sparkles: Bonus 1: < Combinations >. Can you notice anything about the input and output lists that might give clues?
